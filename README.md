@@ -2,7 +2,7 @@
 
 This AI-powered College Admission Agent simplifies the student admission process by providing instant, accurate, and document-based answers to frequently asked questions regarding programs, fees, eligibility, documents, and department contacts at **University College of Engineering (UCE), BIT Campus, Tiruchirappalli**.
 
-
+![Admission Flow](./Chatbots-for-education-Geta-Chatbots.webp)
 
 
 ---
@@ -80,9 +80,29 @@ A Retrieval-Augmented Generation (RAG) based **Admission Assistant** that intera
 
 ---
 
+## ✅ Output Pages
+
+![Admission Flow](./Picture1.png)
+
+---
+
+![User Query Example](./Picture2.png)
+
+---
+![Agent Response](./Picture3.png)
+
+
+---
+
 ## ✅ Conclusion
 
 This Admission Assistant enhances the student experience by making verified information easily accessible. It supports the college in reducing manual effort and enables informed decision-making for applicants through real-time, document-backed answers.
+
+---
+## 🔗 IBM Certifications
+
+Journey to Cloud: Envisioning Your Solution - (https://www.credly.com/badges/40ad03af-ce2b-4737-8ceb-199a95f2500f/public_url)
+Getting Started with Artificial Intelligence - (https://www.credly.com/badges/8c370f48-487a-44df-87fb-e43be5c66a66/public_url)
 
 ---
 
