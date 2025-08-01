@@ -1,0 +1,58 @@
+COLLEGE FEES STRUCTURE (2025)
+A. One-Time Fee (Payable at the Time of Admission)
+
+| S.No | Particulars                                  | B.E./B.Tech (Rs.) | M.E. (Gate) (Rs.) | M.E. (Non-Gate) (Rs.) | MBA (Rs.) | MCA (Rs.) |
+| ---- | -------------------------------------------- | ----------------- | ----------------- | --------------------- | --------- | --------- |
+| 1    | Admission Fee                                | 850               | 1510              | 460                   | 510       | 510       |
+| 2    | Academic Course Fee                          | 600               | 600               | 600                   | 600       | 600       |
+| 3    | Personality and Character Development        | 350               | 350               | 350                   | 600       | 600       |
+| 4    | Placement and Training Charges               | 2000              | 2000              | 2000                  | 2000      | 2000      |
+| 5    | Sports Affiliation Fee                       | 400               | 400               | 400                   | 400       | 400       |
+| 6    | YRC / NSS / Other Activities                 | 600               | 100               | 100                   | 50        | 50        |
+| 7    | Valar Tamil Mandram Development Fund         | 100               | 100               | 100                   | 100       | 100       |
+| 8    | Smart Card Fee                               | 900               | 900               | 900                   | 900       | 900       |
+| 9    | Recognition, Registration and Enrollment Fee | 2000              | 2000              | 2000                  | 2000      | 2000      |
+| 10   | Provisional & Degree Certificate             | 0                 | 0                 | 0                     | 0         | 0         |
+|      | **Total (A)**                                | **7800**          | **7960**          | **6860**              | **7160**  | **7160**  |
+
+B. Caution Deposit (Refundable)
+
+| S.No | Particulars           | All Courses |
+| ---- | --------------------- | ----------- |
+| 1    | Institutional Deposit | 5000        |
+| 2    | Library Deposit       | 2000        |
+|      | **Total (B)**         | **7000**    |
+
+C. Term Fee Payable Every Semester
+
+| S.No | Particulars                                | B.E/B.Tech | M.E.      | M.E. (Non-Gate) | MBA       | MCA       |
+| ---- | ------------------------------------------ | ---------- | --------- | --------------- | --------- | --------- |
+| 1    | Tuition Fee                                | 6000       | 10000     | 13000           | 15000     | 9000      |
+| 2    | Development Fee                            | 3000       | 1500      | 2000            | 2000      | 1500      |
+| 3    | Library Fee                                | 650        | 650       | 650             | 1000      | 500       |
+| 4    | Computer Charges                           | 1000       | 1000      | 1500            | 2000      | 1500      |
+| 5    | Laboratory Contingency Charges             | 1000       | 1000      | 2000            | 2000      | 1500      |
+| 6    | Educational Media Charges                  | 500        | 500       | 500             | 500       | 200       |
+| 7    | Internet Society Fee                       | 270        | 270       | 270             | 600       | 200       |
+| 8    | Sports and Games Fee                       | 200        | 200       | 200             | 200       | 100       |
+| 9    | University Cultural & Professional Society | 500        | 500       | 500             | 200       | 100       |
+| 10   | University Accident & Medical Relief Fund  | 500        | 500       | 500             | 500       | 150       |
+| 11   | Registration and Enrolment Fee             | 800        | 800       | 800             | 600       | 200       |
+| 12   | YRC / Army Flag Day Subscription           | 15         | 15        | 15              | 15        | 15        |
+| 13   | Industrial Visit                           | 500        | 500       | 500             | 1000      | 500       |
+| 14   | Sports Affiliation Fee                     | 65         | 65        | 65              | 400       | 0         |
+| 15   | Institutional Charges                      | 0          | 2500      | 2500            | 2500      | 2500      |
+| 16   | Entrepreneurship Development               | 200        | 200       | 200             | 200       | 200       |
+|      | **Total (C)**                              | **15200**  | **20200** | **25200**       | **30215** | **18165** |
+
+
+Grand Total (A + B + C):
+B.E./B.Tech: ₹30,000
+
+M.E. (Gate): ₹35,160
+
+M.E. (Non-Gate): ₹39,060
+
+MBA: ₹43,375
+
+MCA: ₹33,325
